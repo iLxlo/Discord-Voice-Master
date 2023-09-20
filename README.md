@@ -17,8 +17,8 @@
 </div>
 
 # Discord-Voice-Master
+
 A copy of bleed bot voicemaster feature.
-----------------------------------------------------------------
 
 # SETUP
 [SOON]
