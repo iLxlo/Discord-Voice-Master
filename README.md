@@ -1,6 +1,3 @@
-# Discord-Voice-Master
-A copy of bleed bot voicemaster feature.
-----------------------------------------------------------------
 <br/>
 <div align="center">
   <a href="https://github.com/iLxlo/Discord-Voice-Master">
@@ -19,5 +16,8 @@ A copy of bleed bot voicemaster feature.
   </p>
 </div>
 
+# Discord-Voice-Master
+A copy of bleed bot voicemaster feature.
+----------------------------------------------------------------
 
 ![visual](./assets/Readme/visual.gif)
