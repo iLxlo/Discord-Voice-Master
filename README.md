@@ -19,7 +19,11 @@
 A copy of bleed bot voicemaster feature.
 
 # SETUP
-[SOON]
+```
+> Fill config file on ./main/src/config.ts path 
+
+> npm i && npm run build 
+```
 
 # USAGE:
 ![visual](./assets/Readme/visual.gif)
