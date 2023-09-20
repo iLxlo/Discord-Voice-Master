@@ -19,11 +19,17 @@
 A copy of bleed bot voicemaster feature.
 
 # SETUP
-```
-> Fill config file on ./main/src/config.ts path 
+1) To use this bot it is fairly simple, all you need to do is create a application on [Developer portal](https://discord.com/developers/applications), andthen configure your bot inside `src/config.ts`
+2) Then run `npm i && node run build` || You must have atleast `Node 18.14.0 LTS` version
+3) After that watch the magic unfold!
 
-> npm i && npm run build 
-```
 
 # USAGE:
 ![visual](./assets/Readme/visual.gif)
+
+
+
+> **Warning**
+> Make sure to enable all intents.
+
+![intents](https://github.com/iLxlo/Discord-Voice-Master/assets/98545753/ede8af0d-b3b5-4bf3-926a-b6406128c2a7)
