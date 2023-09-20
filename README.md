@@ -20,4 +20,8 @@
 A copy of bleed bot voicemaster feature.
 ----------------------------------------------------------------
 
+# SETUP
+[SOON]
+
+# USAGE:
 ![visual](./assets/Readme/visual.gif)
