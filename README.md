@@ -20,9 +20,9 @@
 A copy of bleed bot voicemaster feature.
 
 # SETUP
-1) To use this bot it is fairly simple, all you need to do is create a application on [Developer portal](https://discord.com/developers/applications), andthen configure your bot inside `src/config.ts`
+1) To use this bot it is fairly simple, all you need to do is create a application on [Developer portal](https://discord.com/developers/applications), and then configure your bot inside `src/config.ts`
 2) Then run `npm i && node run build` || You must have atleast `Node 18.14.0 LTS` version
-3) After that watch the magic unfold!
+3) After that run `/voice-master` command watch the magic unfold!
 
 
 # USAGE:
