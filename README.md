@@ -14,6 +14,9 @@
     ·
     <a href="https://github.com/iLxlo/Discord-Voice-Master/issues">Request Feature</a>
   </p>
+  Youtube video:
+<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=yoko216h8nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=yoko216h8nm" height="30" width="40" /></a>
+</p>
 </div>
 
 A copy of bleed bot voicemaster feature.
