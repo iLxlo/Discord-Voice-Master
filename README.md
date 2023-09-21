@@ -14,8 +14,6 @@
     ·
     <a href="https://github.com/iLxlo/Discord-Voice-Master/issues">Request Feature</a>
   </p>
-  Youtube video:
-<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=yoko216h8nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=yoko216h8nm" height="30" width="40" /></a>
 </p>
 </div>
 
@@ -36,3 +34,9 @@ A copy of bleed bot voicemaster feature.
 > Make sure to enable all intents.
 
 > ![intents](https://github.com/iLxlo/Discord-Voice-Master/assets/98545753/ede8af0d-b3b5-4bf3-926a-b6406128c2a7)
+
+# CONTACT 
+Youtube video: 
+<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=yoko216h8nm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=yoko216h8nm" height="30" width="40" /></a>
+Support server: <a href="https://discord.gg/4vByuaRKkm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sa" height="30" width="40" /></a>
+</p>
