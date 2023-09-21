@@ -31,5 +31,4 @@ A copy of bleed bot voicemaster feature.
 
 > **Warning**
 > Make sure to enable all intents.
-
-![intents](https://github.com/iLxlo/Discord-Voice-Master/assets/98545753/ede8af0d-b3b5-4bf3-926a-b6406128c2a7)
+> ![intents](https://github.com/iLxlo/Discord-Voice-Master/assets/98545753/ede8af0d-b3b5-4bf3-926a-b6406128c2a7)
